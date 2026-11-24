@@ -41,8 +41,8 @@ Passionate about Web Application Development, Database Management, Cloud Infrast
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[System / Web App Name](https://github.com/YOUR_USERNAME/repo-1)** | [อธิบายสั้นๆ เช่น ระบบจัดการฐานข้อมูลร้านค้า หรือเว็บแอปพลิเคชันสำหรับโปรเจกต์รายวิชา] | `React`, `Node.js`, `MySQL` |
-| **[Project Name 2](https://github.com/YOUR_USERNAME/repo-2)** | [อธิบายสั้นๆ เช่น ระบบวิเคราะห์ข้อมูล หรือ REST API สำหรับจัดการผู้ใช้งาน] | `Python`, `PostgreSQL` |
+| **[System / Web App Name](https://github.com/YOUR_USERNAME/repo-1)** | [เช่น ระบบจัดการฐานข้อมูลร้านค้า หรือเว็บแอปพลิเคชันสำหรับโปรเจกต์รายวิชา] | `React`, `Node.js`, `MySQL` |
+| **[Project Name 2](https://github.com/YOUR_USERNAME/repo-2)** | [เช่น ระบบวิเคราะห์ข้อมูล หรือ REST API สำหรับจัดการผู้ใช้งาน] | `Python`, `PostgreSQL` |
 
 ---
 
