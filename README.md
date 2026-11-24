@@ -37,15 +37,6 @@ Passionate about Web Application Development, Database Management, Cloud Infrast
 
 ---
 
-### Academic & Personal Projects
-
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **[System / Web App Name](https://github.com/YOUR_USERNAME/repo-1)** | [เช่น ระบบจัดการฐานข้อมูลร้านค้า หรือเว็บแอปพลิเคชันสำหรับโปรเจกต์รายวิชา] | `React`, `Node.js`, `MySQL` |
-| **[Project Name 2](https://github.com/YOUR_USERNAME/repo-2)** | [เช่น ระบบวิเคราะห์ข้อมูล หรือ REST API สำหรับจัดการผู้ใช้งาน] | `Python`, `PostgreSQL` |
-
----
-
 ### GitHub Statistics
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Thanasetv&show_icons=true&theme=default&hide_border=true)
