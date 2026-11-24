@@ -1,13 +1,13 @@
-### Hi, I'm [Thanaset Viboontamrongsook]
+### Hi, I'm Thanaset Viboontamrongsook
 
-**Information Technology Undergraduate** at **[KasetsartUniversity Kamphaeng Sean]**  
+**Information Technology Undergraduate** at **KasetsartUniversity Kamphaeng Sean**  
 Passionate about Web Application Development, Database Management, 
-- 🎓 **Education:** B.Sc. in Information Technology, [KasetsartUniversity Kamphaeng Sean] (Expected [Graduation Year, e.g., 2029])
-- 🌱 **Currently Learning:** [e.g., OOP ,Internet Technology, Data Science, Data base]
+- 🎓 **Education:** B.Sc. in Information Technology, KasetsartUniversity Kamphaeng Sean (Expected [Graduation Year, e.g., 2029])
+- 🌱 **Currently Learning:** e.g., OOP ,Internet Technology, Data Science, Data base
 - 💼 **Status:** Focusing on academic projects in Web Development & Data Science; open to collaborative coding and future internship opportunities
-- 📫 **Contact:** [thanaset.v@ku.th](mailto:thanaset.v@ku.th)
-- 📍 **Location:** [Nakhon Pathom ], Thailand
-- 📱 **Tel:** [095-667-3685]
+- 📫 **Contact:** thanaset.v@ku.th(mailto:thanaset.v@ku.th)
+- 📍 **Location:** Nakhon Pathom , Thailand
+- 📱 **Tel:** 095-667-3685
 ---
 
 ### Technical Skills
