@@ -48,4 +48,4 @@ Passionate about Web Application Development, Database Management, Cloud Infrast
 
 ### GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Thanasetv&show_icons=true&theme=default&hide_border=true)
