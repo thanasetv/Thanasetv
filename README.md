@@ -1,12 +1,14 @@
-### Hi, I'm [Thanaset Viboontamrongsook]
+### Hi, I'm [Thanaset Viboontamrongsook]S
 
 **Information Technology Undergraduate** at **[KasetsartUniversity Kamphaeng Sean]**  
 Passionate about Web Application Development, Database Management, Cloud Infrastructure, and System Analysis.
 
 - 🎓 **Education:** B.Sc. in Information Technology, [KasetsartUniversity Kamphaeng Sean] (Expected [Graduation Year, e.g., 2029])
-- 🌱 **Currently Learning:** [e.g., Cloud Computing (AWS), Docker, Next.js, RESTful APIs]
-- 💼 **Status:** Open to [Internship / Co-op] opportunities in Software Development, System Analysis, or IT Infrastructure
+- 🌱 **Currently Learning:** [e.g., OOP ,Internet Technology, Data Science, Data base]
+- 💼 **Status:** Focusing on academic projects in Web Development & Data Science; open to collaborative coding and future internship opportunities
 - 📫 **Contact:** [thanaset.v@ku.th]
+- 📍 **Location:** [Nakhon Pathom ], Thailand
+- 📱 **Tel:** [095-667-3685]
 ---
 
 ### Technical Skills
